@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/1448/1448776.png");
+    background-repeat: repeat-y;
+    background-position: right;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: darkblue;
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 1.8em;
+  }
+  
+  p {
+    color: #444;
+    font-size: 1.1em;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .destaque {
+    color: #d63384;
+    font-weight: bold;
+  }
+  
